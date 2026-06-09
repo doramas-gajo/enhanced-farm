@@ -1,0 +1,11 @@
+{
+   "Name": "Enhanced Farm",
+   "Author": "Doramasgajo",
+   "Version": "0.1.0",
+   "Description": "An enhanced farm map for Stardew Valley.",
+   "UniqueID": "doramasgajo.EnhancedFarm",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
